@@ -65,7 +65,7 @@
     "targz": "^1.0.1"
   },
   "devDependencies": {
-    "electron": "5.0.8",
+    "electron": "9.4.0",
     "electron-reload": "^1.4.1",
     "typescript": "^3.5.3"
   }
